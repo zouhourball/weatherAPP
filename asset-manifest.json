@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/weatherAPP/static/css/main.40e35d74.chunk.css",
+    "main.js": "/weatherAPP/static/js/main.7e4772ed.chunk.js",
+    "main.js.map": "/weatherAPP/static/js/main.7e4772ed.chunk.js.map",
+    "runtime-main.js": "/weatherAPP/static/js/runtime-main.60b5e13b.js",
+    "runtime-main.js.map": "/weatherAPP/static/js/runtime-main.60b5e13b.js.map",
+    "static/css/2.11a82b4c.chunk.css": "/weatherAPP/static/css/2.11a82b4c.chunk.css",
+    "static/js/2.8f22176a.chunk.js": "/weatherAPP/static/js/2.8f22176a.chunk.js",
+    "static/js/2.8f22176a.chunk.js.map": "/weatherAPP/static/js/2.8f22176a.chunk.js.map",
+    "index.html": "/weatherAPP/index.html",
+    "static/css/2.11a82b4c.chunk.css.map": "/weatherAPP/static/css/2.11a82b4c.chunk.css.map",
+    "static/css/main.40e35d74.chunk.css.map": "/weatherAPP/static/css/main.40e35d74.chunk.css.map",
+    "static/js/2.8f22176a.chunk.js.LICENSE.txt": "/weatherAPP/static/js/2.8f22176a.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/weatherAPP/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60b5e13b.js",
+    "static/css/2.11a82b4c.chunk.css",
+    "static/js/2.8f22176a.chunk.js",
+    "static/css/main.40e35d74.chunk.css",
+    "static/js/main.7e4772ed.chunk.js"
+  ]
+}
