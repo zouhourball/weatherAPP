@@ -25,7 +25,7 @@ const WeatherCard = ({ id }: Props) => {
               {weatherData.unit.symbol}
             </DayTemperature>
             <MaxMinContainer>
-              <img src="/icons/arrows.png" alt="arrows" width="32" height="32" />
+              <img src={`${process.env.PUBLIC_URL}/icons/arrows.png`} alt="arrows" width="32" height="32" />
               <MaxMinData>
                 <p>
                   {weatherData.daily[id].temp.max.toFixed(1)}

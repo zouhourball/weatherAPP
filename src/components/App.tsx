@@ -12,12 +12,12 @@ function App() {
   
   // Wrapping Slick Buttons
   const PrevArrow = ({currentSlide, slideCount, ...props}: CustomArrowProps) => ( 
-        <img src="/icons/prev.png" alt="prev" {...props} /> 
+        <img src={`${process.env.PUBLIC_URL}/icons/prev.png`} alt="prev" {...props} /> 
     );
 
   // Wrapping Slick Buttons
   const NextArrow = ({currentSlide, slideCount, ...props}: CustomArrowProps) => ( 
-    <img src="/icons/next.png" alt="next" {...props} /> 
+    <img src={`${process.env.PUBLIC_URL}/icons/next.png`} alt="next" {...props} /> 
   );
 
  let slickSettings: Settings = {
